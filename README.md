@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VioPaige
 - 👀 I’m interested in programming, and 3d modeling in blender
-- 🌱 I’m currently learning html and improving in js & python.
+- 🌱 Fullstack web developer (html, css, js, Node.js) - learning ethical hacking in Python
 - 📫 How to reach me; Discord: Paige#3198
 
 <!---
