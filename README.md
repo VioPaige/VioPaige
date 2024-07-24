@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VioPaige
-- 👀 I’m interested in programming, and 3d modeling in blender
-- 🌱 Fullstack web developer (html, css, js, Node.js) - learning ethical hacking in Python
+- 👀 I'm interested in computer science and machine learning! I also do indoor climbing in my free time :)
+- 🌱 Fullstack web developer (html, css, js, Node.js), Beginner Data Scientist (Python + tensorflow), Game Developer (LUA)
 - 📫 How to reach me; Discord: @viopaige
 
 <!---
