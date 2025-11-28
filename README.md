@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VioPaige
 - 👀 I'm interested in computer science and machine learning! I also do indoor climbing in my free time :)
-- 🌱 Fullstack web developer (html, css, js, Node.js), Beginner Data Scientist (Python + tensorflow), Game Developer (LUA)
+- 🌱 High level in JavaScript (and Node), TypeScript, LUA(U), Rust, HTML/CSS, and Python. I also have basics of Flutter + Dart, and (android) Kotlin. 
 - 📫 How to reach me; Discord: @viopaige
 
 <!---
